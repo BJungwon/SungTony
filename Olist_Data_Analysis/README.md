@@ -1,5 +1,5 @@
 ## olist 이커머스 플랫폼 비즈니스 분석
----
+
 #### 데이터 출처: [캐글](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 #### 사용스킬/툴: Postgresql, Pandas, Redash, Tableau
 #### 프로젝트 과정
